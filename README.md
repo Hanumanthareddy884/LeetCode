@@ -1,2 +1,2 @@
-# Leedcode
+# LeetCode
 Solving Problems
