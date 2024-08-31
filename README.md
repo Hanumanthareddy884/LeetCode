@@ -13,3 +13,10 @@ Solving Problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Hanumanthareddy884/Leedcode/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Hanumanthareddy884/Leedcode/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
