@@ -26,5 +26,4 @@ class Solution:
             else :
                 c+=dic[s[k]]
                 k+=1
-        print(c)
         return c
