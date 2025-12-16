@@ -30,6 +30,7 @@ Solving Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Solving Problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
