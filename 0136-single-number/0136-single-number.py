@@ -1,12 +1,11 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        non_duplicate = []
-        duplicate = []
+        non_duplicate = {'non':[],'ori':[]}
         for i in nums:
-            if i not in non_duplicate:
-                non_duplicate.append(i)
+            if i not in non_duplicate['non']:
+                non_duplicate['non'].append(i)
             else:
-                duplicate.append(i)
-        for j in non_duplicate:
-            if j not in duplicate:
+                non_duplicate['ori'].append(i)
+        for j in non_duplicate['non']:
+            if j not in non_duplicate['ori']:
                 return j
