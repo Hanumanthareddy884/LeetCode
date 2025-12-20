@@ -57,6 +57,7 @@ Solving Problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0067-add-binary) |
+| [0520-detect-capital](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0520-detect-capital) |
 ## String Matching
 |  |
 | ------- |
