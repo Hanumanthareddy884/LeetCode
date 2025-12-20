@@ -3,8 +3,9 @@ class Solution:
         a= 0
         b=1
         c=0
-        if n==2:
+        if n==2 or n==1:
             return b
+        
         for i in range(2,n+1):
             c = a+b
             a = b
