@@ -49,6 +49,7 @@ Solving Problems
 | [0066-plus-one](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -74,4 +75,16 @@ Solving Problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
