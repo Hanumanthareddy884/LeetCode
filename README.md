@@ -88,4 +88,8 @@ Solving Problems
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
