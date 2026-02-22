@@ -49,6 +49,7 @@ Solving Problems
 | [0066-plus-one](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -67,6 +68,7 @@ Solving Problems
 | ------- |
 | [0035-search-insert-position](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Hanumanthareddy884/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
